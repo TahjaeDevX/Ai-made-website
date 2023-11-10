@@ -2,7 +2,7 @@
 // You can add interactivity or functionality to your website using JavaScript
 
 // Example: Display a message when a button is clicked
-const button = document.querySelector('button');
+const button = document.querySelector('#myButton');
 button.addEventListener('click', function() {
   alert('Button clicked!');
 });
